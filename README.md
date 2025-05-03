@@ -16,7 +16,7 @@ TP4 angular products : make up
 
 
 ###  Liste des produits  
-![Liste produits](./captures/list-produits.png)
+![Liste produits](./src/captures/list-produits.png)
 
 ###  Détails d’un produit  
 ![Détail produit](./captures/detail-produit.png)
