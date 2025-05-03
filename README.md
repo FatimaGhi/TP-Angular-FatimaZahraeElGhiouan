@@ -11,12 +11,8 @@ TP4 angular products : make up
 
 ---
 
-##  Installation
 
-Installez les dépendances avec la commande suivante :
 
-```bash
-npm install
 
 
 ###  Liste des produits  
